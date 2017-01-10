@@ -1,4 +1,4 @@
 # ShootHoop
 Basketball Shooting VR Game built using C# in Unity. 
 
-![Alt text](05bd496002c2278b955239098d973b9e.gif?raw=true "Optional Title")
+![](https://media.giphy.com/media/l4Jzg9os28mA1LTLG/source.gif)
